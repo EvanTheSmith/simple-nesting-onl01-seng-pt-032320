@@ -106,7 +106,7 @@ def changing_alan
      alans_new_info = "GUI"
      
      programmer_hash[:alan_key][:known_for] = "GUI"
-     
+     return 
 end
 
 def adding_to_dennis
